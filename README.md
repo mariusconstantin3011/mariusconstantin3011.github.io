@@ -8,4 +8,4 @@ I'm very passionate about non-profit causes around international education.
 
 I did my PhD at Yale, my Master in Financial Engineering at Stevens Institute of Technology. I a graduated magna cum laude in Physics from Princeton in 2014.
 
-Resume at https://drive.google.com/file/d/1tAdqDvFJSv5xHKTK604MMQu9eAX-_8Bj/view?usp=drive_link
+Resume at [this link.](https://drive.google.com/file/d/1tAdqDvFJSv5xHKTK604MMQu9eAX-_8Bj/view?usp=drive_link) 
