@@ -51,28 +51,46 @@ Physics at Princeton:
 6) Condensed Matter Field Theory Grad Only Seminar PHY090
 
 Computer Science at Princeton: 
-Algorithms and Data Structures COS226
-Programming Systems COS217
-Reasoning about Computation COS340
-Artificial Intelligence COS402
-Reasoning about Computation COS340
+
+1) Algorithms and Data Structures COS226
+
+2) Programming Systems COS217
+
+3) Reasoning about Computation COS340
+
+4) Artificial Intelligence COS402
+
+5) Reasoning about Computation COS340
 
 Math at Princeton: 
-Analysis II: Complex Analysis MAT331 
-Mathematics in Engineering I MAE305
-Mathematics in Engineering II MAE306 
+
+1) Analysis II: Complex Analysis MAT331 
+
+2) Mathematics in Engineering I MAE305
+
+3) Mathematics in Engineering II MAE306 
 
 Physics at Yale: 
-APHY 677 Noise Dissipation & Amplification
-APHY 549 Solid-State Physics II
-APHY 633 Intro to Superconductivity
-PHYS 691 Quantum Optics
+
+1) APHY 677 Noise Dissipation & Amplification
+
+2) APHY 549 Solid-State Physics II
+
+3) APHY 633 Intro to Superconductivity
+
+4) PHYS 691 Quantum Optics
 
 Financial Engineering at Stevens: 
-Stochastic Calculus for Financial Engineers
-Pricing and Hedging
-Portfolio Theory and Applications
-Financial Risk Management
-Advanced Derivatives
-Research Project on Systemic Risk
+
+1) Stochastic Calculus for Financial Engineers
+
+2) Pricing and Hedging
+
+3) Portfolio Theory and Applications
+
+4) Financial Risk Management
+
+5) Advanced Derivatives
+
+
 
