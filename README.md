@@ -37,12 +37,18 @@ References:
 Selected Courses:
 
 Physics at Princeton: 
--Introduction to Quantum Theory PHY305
--Implementations of Quantum Information ELE568 
--Science and Technology of Nuclear Energy AST309
--Quantum Optics A ELE456 
--Biological Physics PHY412
--Condensed Matter Field Theory Grad Only Seminar PHY090
+
+1) Introduction to Quantum Theory PHY305
+
+2) Implementations of Quantum Information ELE568 
+
+3) Science and Technology of Nuclear Energy AST309
+
+4) Quantum Optics A ELE456 
+
+5) Biological Physics PHY412
+
+6) Condensed Matter Field Theory Grad Only Seminar PHY090
 
 Computer Science at Princeton: 
 Algorithms and Data Structures COS226
