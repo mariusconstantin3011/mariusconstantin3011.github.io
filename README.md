@@ -8,9 +8,11 @@ I'm very passionate about non-profit causes around international education.
 
 I did my PhD at Yale, my Master in Financial Engineering at Stevens Institute of Technology. I a graduated magna cum laude in Physics from Princeton in 2014.
 
-Resume at [this link.](https://drive.google.com/file/d/1tAdqDvFJSv5xHKTK604MMQu9eAX-_8Bj/view?usp=drive_link) 
+[Resume](https://drive.google.com/file/d/1tAdqDvFJSv5xHKTK604MMQu9eAX-_8Bj/view?usp=drive_link) 
 
 [Linkedin](https://www.linkedin.com/in/mariusconstantin11/)
+
+[Github](https://github.com/mariusconstantin3011/)
 
 Selected Academic Work:
 
@@ -31,3 +33,17 @@ References:
 3) J. Koch and K. Le Hur. Superfluid-Mott-insulator transition of light in the Jaynes-Cummings lattice. Phys. Rev. A, 802:023811, August 2009.
 
 4) S. Schmidt and J. Koch. Circuit QED lattices: Towards quantum simulation with superconducting circuits. Annalen der Physik, 525:395-412, June 2013.
+
+Selected Courses:
+
+Physics at Princeton: Introduction to Quantum Theory PHY305, Implementations of Quantum Information ELE568,  Science and Technology of Nuclear Energy AST309, Quantum Optics A ELE456,  Biological Physics PHY412, Condensed Matter Field Theory Grad Only Seminar PHY090
+
+Computer Science at Princeton: Algorithms and Data Structures COS226, Programming Systems COS217, Reasoning about Computation COS340, Artificial Intelligence COS402, Reasoning about Computation COS340
+
+Math at Princeton: Analysis II: Complex Analysis MAT331, Mathematics in Engineering I MAE305, Mathematics in Engineering II MAE306 
+
+Physics at Yale: APHY 677 Noise Dissipation & Amplification, APHY 549 Solid-State Physics II, APHY 633 Intro to Superconductivity, PHYS 691 Quantum Optics
+
+Financial Engineering at Stevens: Stochastic Calculus for Financial Engineers, Pricing and Hedging, Portfolio Theory and Applications,
+Financial Risk Management, Advanced Derivatives, Research Project on Systemic Risk
+
