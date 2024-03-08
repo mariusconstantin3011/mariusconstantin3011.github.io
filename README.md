@@ -36,14 +36,37 @@ References:
 
 Selected Courses:
 
-Physics at Princeton: Introduction to Quantum Theory PHY305, Implementations of Quantum Information ELE568,  Science and Technology of Nuclear Energy AST309, Quantum Optics A ELE456,  Biological Physics PHY412, Condensed Matter Field Theory Grad Only Seminar PHY090
+Physics at Princeton: 
+-Introduction to Quantum Theory PHY305
+-Implementations of Quantum Information ELE568 
+-Science and Technology of Nuclear Energy AST309
+-Quantum Optics A ELE456 
+-Biological Physics PHY412
+-Condensed Matter Field Theory Grad Only Seminar PHY090
 
-Computer Science at Princeton: Algorithms and Data Structures COS226, Programming Systems COS217, Reasoning about Computation COS340, Artificial Intelligence COS402, Reasoning about Computation COS340
+Computer Science at Princeton: 
+Algorithms and Data Structures COS226
+Programming Systems COS217
+Reasoning about Computation COS340
+Artificial Intelligence COS402
+Reasoning about Computation COS340
 
-Math at Princeton: Analysis II: Complex Analysis MAT331, Mathematics in Engineering I MAE305, Mathematics in Engineering II MAE306 
+Math at Princeton: 
+Analysis II: Complex Analysis MAT331 
+Mathematics in Engineering I MAE305
+Mathematics in Engineering II MAE306 
 
-Physics at Yale: APHY 677 Noise Dissipation & Amplification, APHY 549 Solid-State Physics II, APHY 633 Intro to Superconductivity, PHYS 691 Quantum Optics
+Physics at Yale: 
+APHY 677 Noise Dissipation & Amplification
+APHY 549 Solid-State Physics II
+APHY 633 Intro to Superconductivity
+PHYS 691 Quantum Optics
 
-Financial Engineering at Stevens: Stochastic Calculus for Financial Engineers, Pricing and Hedging, Portfolio Theory and Applications,
-Financial Risk Management, Advanced Derivatives, Research Project on Systemic Risk
+Financial Engineering at Stevens: 
+Stochastic Calculus for Financial Engineers
+Pricing and Hedging
+Portfolio Theory and Applications
+Financial Risk Management
+Advanced Derivatives
+Research Project on Systemic Risk
 
