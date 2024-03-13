@@ -1,8 +1,6 @@
 Hi! I'm Marius Constantin. I'm an HFT Trader and Quant Researcher.
 
-I am open to new roles in Quant Research and Quant Trading. Previously, I worked at Goldman Sachs, Dexterity Capital, Manifold Trading and Princeton University.
-
-I'm very passionate about non-profit causes around international education.
+I am open to new roles in Quant Research and Quant Trading. Previously, I worked at Dexterity Capital, Goldman Sachs, Yale University and Princeton University.
 
 I did my PhD at Yale, my Master in Financial Engineering at Stevens Institute of Technology. I a graduated magna cum laude in Physics from Princeton in 2014.
 
