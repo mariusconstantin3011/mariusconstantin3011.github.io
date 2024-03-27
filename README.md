@@ -4,8 +4,6 @@ I am open to new roles in Quant Research and Quant Trading. Previously, I worked
 
 I did my PhD at Yale, my Master in Financial Engineering at Stevens Institute of Technology. I a graduated magna cum laude in Physics from Princeton in 2014.
 
-[Resume](https://drive.google.com/file/d/1tAdqDvFJSv5xHKTK604MMQu9eAX-_8Bj/view?usp=drive_link) 
-
 [Linkedin](https://www.linkedin.com/in/mariusconstantin11/)
 
 [Github](https://github.com/mariusconstantin3011/)
