@@ -1,3 +1,6 @@
+![Profile](https://drive.google.com/file/d/1J3W2sQWgOdE7wfSbYROyeNWnzIdFUk7z/view?usp=sharing)
+
+
 Hi! I'm Marius Constantin. I'm an HFT Trader and Quant Researcher.
 
 I am a Quantitative Systematic Trader in Equity Options at SIG. Previously, I worked at Dexterity Capital, Goldman Sachs, Yale University and Princeton University.
