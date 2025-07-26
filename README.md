@@ -1,4 +1,4 @@
-![Profile](https://drive.google.com/file/d/1J3W2sQWgOdE7wfSbYROyeNWnzIdFUk7z/view?usp=sharing)
+![Profile](/assets/media/marius_constantin.png)
 
 
 Hi! I'm Marius Constantin. I'm an HFT Trader and Quant Researcher.
