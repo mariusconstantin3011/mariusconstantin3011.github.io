@@ -1,5 +1,3 @@
-![Profile](https://github.com/mariusconstantin3011/mariusconstantin3011.github.io/assets/media/marius_constantin.png)
-
 ![Profile](https://github.com/mariusconstantin3011/mariusconstantin3011.github.io/blob/main/assets/media/marius_constantin.png)
 
 Hi! I'm Marius Constantin. I'm an HFT Trader and Quant Researcher.
