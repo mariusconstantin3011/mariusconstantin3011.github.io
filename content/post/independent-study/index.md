@@ -1,6 +1,6 @@
 ---
-title: Doing an independent study with Dr. Wimpy
-author: Cameron Wimpy
+title: Doing an independent study with Dr. Constantin
+author: Marius Constantin
 date: "2020-03-18T00:00:00Z"
 lastmod: "2021-03-06T00:00:00Z"
 categories:
@@ -35,7 +35,7 @@ First, let's define an independent study. Webster defines an independent study a
 
 I provide more detailed criteria below, but the best way to convince me (and others, I presume) is to develop a well-researched proposal that is based on some political science phenomenon that is very interesting to us both. If you propose a topic that is clearly outside my expertise, then I will assume you are not serious and failed to read my CV. Put simply, you must take this seriously and leave no room for me to regret my decision to work with you for free.
 
-# Procedures for an independent study with Dr. Wimpy
+# Procedures for an independent study with Dr. Constantin
 
 The following are a list of procedures that I require before agreeing to an independent study. Note that these apply no matter the circumstances with respect to you "wanting" or "needing" the independent study. Failure to follow these procedures will result in me declining to work with a student. 
 
@@ -44,7 +44,7 @@ The following are a list of procedures that I require before agreeing to an inde
     b. **Discussion of Subject:** Here, you should tell me about the subject that you want to study. As noted above, it will need to be one in which I have particular expertise. I want to know what you know so far, and I want to see that you are willing to do some legwork to convince me that the topic is worthy of study. 
     c. **Statement of Interest:** This should flow right from the previous section and explain your own interest in the topic. If you are not interested then it will not be fun.
     d. **Proposed Deliverables:** Here, you should propose what the deliverables are to be for the independent study. These most often include a research/term paper or a series of shorter papers. It could also include actual exams or other methods of evaluation. I, of course, reserve the right to make the final decision on deliverables.
-2. Schedule a meeting with me to discuss your proposal. You can do that by e-mailing me or by going [here](https://calendly.com/cwimpy/meeting-with-dr-wimpy) and filling in your proposed time and information. 
+2. Schedule a meeting with me to discuss your proposal. You can do that by e-mailing me or by going [here](https://calendly.com/cwimpy/meeting-with-dr-constantin) and filling in your proposed time and information. 
 3. If I end up saying "yes" to your proposal you will need to obtain the independent study form from the main Political Science office in HSS 3007. 
 4. Schedule a time for me to review the form and sign it. 
 5. Return the form to the main Political Science office in HSS 3007. 

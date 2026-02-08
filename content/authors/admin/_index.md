@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cameron Wimpy
+title: Marius Constantin
 
 # Is this the primary user of the site?
 superuser: true

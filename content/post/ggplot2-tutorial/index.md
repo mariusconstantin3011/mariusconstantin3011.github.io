@@ -1,6 +1,6 @@
 ---
 title: GGPLOT2 Tutorial
-author: Cameron Wimpy
+author: Marius Constantin
 date: "2019-05-21T00:00:00Z"
 lastmod: "2021-03-06T00:00:00Z"
 slug: ggplot2-tutorial

@@ -1,6 +1,6 @@
 ---
 title: Asking for a Letter of Recommendation
-author: Cameron Wimpy
+author: Marius Constantin
 date: "2021-08-19T00:00:00Z"
 lastmod: "2021-08-19T00:00:00Z"
 categories:

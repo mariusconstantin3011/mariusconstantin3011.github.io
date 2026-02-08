@@ -1,6 +1,6 @@
 ---
 title: Best practices for virtual meetings
-author: Cameron Wimpy
+author: Marius Constantin
 date: "2020-03-17T00:00:00Z"
 lastmod: "2021-03-06T00:00:00Z"
 categories:
