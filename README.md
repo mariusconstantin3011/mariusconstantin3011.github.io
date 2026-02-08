@@ -1,4 +1,6 @@
-![Profile](assets/media/marius_constantin.png)
+<p align="center">
+  <img src="assets/media/marius_constantin.png" alt="Profile" width="349">
+</p>
 
 Hi! I'm Marius Constantin. I'm an HFT Trader and Quant Researcher.
 
