@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Political Scientist at Arkansas State University'
-    twitter: 'camwimpy'
+    description: 'HFT Trader and Quant Researcher at SIG'
+    twitter: 'marius_pton'
   analytics:
     google_analytics: 'UA-17389463-5'
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Marius Constantin 2010–. This work is licensed under {license}'
+    notice: '© Marius Constantin 2024–. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

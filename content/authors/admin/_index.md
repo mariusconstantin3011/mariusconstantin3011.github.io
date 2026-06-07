@@ -1,46 +1,35 @@
 ---
-# Display name
 title: Marius Constantin
 
-# Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Associate Professor and Department Chair of Political Science
+role: HFT Trader & Quant Researcher
 
-# Organizations/Affiliations to show in About widget
 organizations:
-- name: Arkansas State University
-  url: https://www.astate.edu/
+- name: SIG (Susquehanna International Group)
+  url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include political methodology, political economy, political violence, and public policy.
+bio: Quantitative Systematic Trader in Equity Options at SIG. PhD in Applied Physics from Yale.
 
-# Interests to show in About widget
 interests:
-- Data Science
-- Political Economy
-- Political Methodology
-- Public Policy
-- Spatial Econometrics
+- High-Frequency Trading
+- Quantitative Finance
+- Equity Options
+- Quantum Physics
+- Machine Learning
 
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Political Science
-    institution: Texas A&M University
+  - course: PhD in Applied Physics
+    institution: Yale University
+    year: 2020
+  - course: Master in Financial Engineering
+    institution: Stevens Institute of Technology
+    year: 2016
+  - course: BA in Physics (magna cum laude)
+    institution: Princeton University
     year: 2014
-  - course: MA in Political Science
-    institution: Arkansas State University
-    year: 2009
-  - course: BA in Political Science
-    institution: Arkansas State University
-    year: 2007
 
-# Social/Academic Networking
-# For available icons, see: s
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: linkedin
   icon_pack: fab
@@ -55,21 +44,13 @@ social:
   icon_pack: fab
   link: https://github.com/mariusconstantin3011
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
+Hi! I'm Marius Constantin. I'm an HFT Trader and Quant Researcher.
 
-I am associate professor and department chair of political science at Arkansas State University with interests in comparative public administration, political economy, political methodology, and public policy. Starting in Fall 2022, I am also the founding director of the [Institute for Rural Initiatives](https://www.astate.edu/a/iri/). I am an affiliate faculty with the [Center for No Boundary Thinking](https://www.astate.edu/a/cnbt/) at A-State. I formerly served as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I managed applied research on the scientific study of elections. I was previously an affiliate faculty member with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
+I am a Quantitative Systematic Trader in Equity Options at [SIG](https://sig.com). Previously, I worked at Dexterity Capital, Goldman Sachs, Yale University, and Princeton University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-wimpy.pdf" "newtab" >}}CV{{< /staticref >}}.
+I did my PhD at Yale, my Master in Financial Engineering at Stevens Institute of Technology. I graduated magna cum laude in Physics from Princeton in 2014.
