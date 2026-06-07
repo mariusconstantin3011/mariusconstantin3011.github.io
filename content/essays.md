@@ -31,6 +31,7 @@ A collection of essays and articles I find myself returning to.
 - [A Sidelined Wall Street Legend Bets on Bitcoin](https://www.newyorker.com/magazine/2018/04/16/a-sidelined-wall-street-legend-bets-on-bitcoin) — The New Yorker
 - [Yes, You May Need a Blockchain](https://balajis.com/p/yes-you-may-need-a-blockchain) — Balaji Srinivasan
 - [Beyond the Sky: Jeffrey Yan & Hyperliquid](https://colossus.com/article/beyond-the-sky-jeffrey-yan-hyperliquid/) — Colossus
+- [Hyperliquid Docs](https://hyperliquid.gitbook.io/hyperliquid-docs) — Hyperliquid
 
 ---
 
