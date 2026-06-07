@@ -51,6 +51,9 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/marius_princeton/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mariusconstantin3011
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
