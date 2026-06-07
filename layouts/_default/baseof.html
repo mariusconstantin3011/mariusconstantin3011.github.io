@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ if .IsHome }}Marius Constantin{{ else }}{{ .Title }} — Marius Constantin{{ end }}</title>
+  <meta name="description" content="HFT Trader and Quant Researcher. Equity Options at SIG." />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="icon" href="/favicons/favicon.ico" />
+</head>
+<body>
+  <div class="site-wrapper">
+    <header class="site-header">
+      <div class="site-name"><a href="/">Marius Constantin</a></div>
+      <nav class="site-nav">
+        <a href="/" {{ if .IsHome }}class="active"{{ end }}>Home</a>
+        <a href="/essays/" {{ if eq .RelPermalink "/essays/" }}class="active"{{ end }}>Essays</a>
+      </nav>
+    </header>
+
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer class="site-footer">
+      <p>© {{ now.Format "2006" }} Marius Constantin</p>
+    </footer>
+  </div>
+</body>
+</html>
