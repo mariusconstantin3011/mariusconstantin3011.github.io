@@ -40,6 +40,7 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/marius_princeton/
+  label: Instagram
 - icon: github
   icon_pack: fab
   link: https://github.com/mariusconstantin3011
