@@ -7,7 +7,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: ''
       username: admin
   - block: markdown
     id: research
