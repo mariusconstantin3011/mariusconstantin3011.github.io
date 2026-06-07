@@ -42,30 +42,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: cv
-  icon_pack: ai
-  link: uploads/cv-wimpy.pdf
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  
-- icon: dataverse
-  icon_pack: ai
-  link: https://dataverse.harvard.edu/dataverse/cwimpy
-- icon: github
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/cwimpy
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=LRQ7rpwAAAAJ
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-2049-5229
-- icon: clarivate
-  icon_pack: ai
-  link: https://www.webofscience.com/wos/author/record/1987627
+  link: https://www.linkedin.com/in/mariusconstantin11/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/camwimpy
+  link: https://x.com/marius_pton
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/marius_princeton/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
