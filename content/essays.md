@@ -39,3 +39,4 @@ A collection of essays and articles I find myself returning to.
 
 - [Job Search Love Letters](https://kipp.ly/p/job-search-love-letters) — kipply
 - [Book Review: Elon Musk](https://www.astralcodexten.com/p/book-review-elon-musk) — Astral Codex Ten
+- [The End of My Childhood](https://vitalik.eth.limo/general/2024/01/31/end.html) — Vitalik Buterin
