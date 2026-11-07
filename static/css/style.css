@@ -402,3 +402,8 @@ a:hover { text-decoration: underline; }
   .home-name { font-size: 32px; }
   .home-photo { width: 130px; height: 130px; }
 }
+
+@media (max-width: 560px) {
+  .home .social-links { gap: 12px; flex-wrap: nowrap; }
+  .home .social-links a { font-size: 12px; letter-spacing: 0; gap: 4px; }
+}
