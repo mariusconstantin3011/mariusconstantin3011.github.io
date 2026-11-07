@@ -11,10 +11,11 @@
 <body>
   <div class="site-wrapper">
     <header class="site-header">
-      <div class="site-name"><a href="/">MARIUS CONSTANTIN</a></div>
       <nav class="site-nav">
         <a href="/" {{ if .IsHome }}class="active"{{ end }}>Home</a>
+        <a href="/research/" {{ if eq .RelPermalink "/research/" }}class="active"{{ end }}>Research</a>
         <a href="/essays/" {{ if eq .RelPermalink "/essays/" }}class="active"{{ end }}>Essays</a>
+        <a href="/courses/" {{ if eq .RelPermalink "/courses/" }}class="active"{{ end }}>Courses</a>
       </nav>
     </header>
 
@@ -24,6 +25,7 @@
 
     <footer class="site-footer">
       <p>© {{ now.Format "2006" }} Marius Constantin</p>
+      <p class="footer-links"><a href="https://github.com/mariusconstantin3011" target="_blank" rel="noopener">GitHub</a></p>
     </footer>
   </div>
 </body>

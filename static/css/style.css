@@ -362,3 +362,43 @@ a:hover { text-decoration: underline; }
   .page-content ul li { flex-direction: column; gap: 2px; }
   .courses-grid { grid-template-columns: 1fr; gap: 24px; }
 }
+
+/* ── Reference-style homepage ── */
+.site-header { padding: 32px 0 0; }
+.site-nav { margin-bottom: 48px; gap: 24px; }
+.site-nav a { font-size: 14px; letter-spacing: 0.02em; text-transform: none; }
+
+.home { text-align: center; }
+.home-photo { width: 160px; height: 160px; margin-bottom: 24px; }
+.home-name { font-size: 40px; font-weight: 700; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 8px; }
+.home-tagline { font-size: 17px; color: var(--muted); margin-bottom: 20px; }
+.home-tagline .sep { margin: 0 8px; color: var(--border); }
+.home .social-links { margin-bottom: 32px; }
+.home-bio { text-align: left; max-width: none; margin-bottom: 48px; }
+.home-bio p { font-size: 16px; color: var(--text); line-height: 1.75; margin-bottom: 14px; }
+
+.link-blocks { text-align: left; border-top: 1px solid var(--border); margin-bottom: 64px; }
+.link-block {
+  position: relative;
+  display: block;
+  padding: 22px 40px 22px 0;
+  border-bottom: 1px solid var(--border);
+}
+.link-block:hover { text-decoration: none; }
+.link-block-title { font-size: 18px; font-weight: 600; margin-bottom: 4px; }
+.link-block-desc { font-size: 15px; color: var(--muted); }
+.link-block-arrow {
+  position: absolute; right: 0; top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px; color: var(--muted);
+  transition: transform 0.15s, color 0.15s;
+}
+.link-block:hover .link-block-arrow { transform: translate(4px, -50%); color: var(--text); }
+
+.footer-links { margin-top: 6px; }
+.footer-links a { text-decoration: underline; }
+
+@media (max-width: 560px) {
+  .home-name { font-size: 32px; }
+  .home-photo { width: 130px; height: 130px; }
+}
